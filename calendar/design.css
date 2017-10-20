@@ -1,0 +1,20 @@
+@charset "utf-8";
+table {
+	float:left;
+	margin:0% 0% 0% 13%;
+	border-style:solid;
+	background:#F8F8F8;
+	width:400px;
+	height:150px;
+	font-family:Book Antiqua;
+	text-align:center;
+}
+
+table a {
+	text-decoration:none;
+	color:#000;
+}
+
+table a:hover {
+	color:#09F;
+}
